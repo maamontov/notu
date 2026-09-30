@@ -1,0 +1,34 @@
+/target/
+
+# Local editor and system files
+.DS_Store
+Thumbs.db
+/.idea/
+/.vscode/
+*.swp
+*.swo
+*.rs.bk
+*.log
+*~
+
+# Private configuration and workspace data
+.env
+.env.*
+/.aws/
+/.notu.json
+/.notu-created.json
+/.notu-trash/
+/.notu*.corrupt-*
+/notes/
+/workspace/
+
+# Local development instructions and tooling
+/AGENTS.md
+/CLAUDE.md
+/GEMINI.md
+/.agents/
+/.codex/
+/.claude/
+/.cursor/
+/.copilot/
+/.ai/
